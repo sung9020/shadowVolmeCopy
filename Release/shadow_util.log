@@ -1,0 +1,63 @@
+﻿  stdafx.cpp
+  ChildFrm.cpp
+  file_list_dialog.cpp
+  MainFrm.cpp
+  shadow_util.cpp
+  shadow_utilDoc.cpp
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(149): warning C4018: '<' : signed/unsigned mismatch
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(168): warning C4018: '<' : signed/unsigned mismatch
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(269): warning C4390: ';' : empty controlled statement found; is this the intent?
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(316): warning C4390: ';' : empty controlled statement found; is this the intent?
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(320): warning C4390: ';' : empty controlled statement found; is this the intent?
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(324): warning C4018: '<' : signed/unsigned mismatch
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(330): warning C4018: '<' : signed/unsigned mismatch
+  shadow_utilView.cpp
+  volume_shadow_util.cpp
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(149): warning C4018: '<' : signed/unsigned mismatch
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(168): warning C4018: '<' : signed/unsigned mismatch
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(269): warning C4390: ';' : empty controlled statement found; is this the intent?
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(316): warning C4390: ';' : empty controlled statement found; is this the intent?
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(320): warning C4390: ';' : empty controlled statement found; is this the intent?
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(324): warning C4018: '<' : signed/unsigned mismatch
+d:\내 문서\visual studio 2012\projects\shadow_util\shadow_util\vss_class.h(330): warning C4018: '<' : signed/unsigned mismatch
+file_list_dialog.obj : error LNK2001: __imp__EnableWindow@8 외부 기호를 확인할 수 없습니다.
+MainFrm.obj : error LNK2001: __imp__RedrawWindow@16 외부 기호를 확인할 수 없습니다.
+shadow_util.obj : error LNK2001: __imp__UpdateWindow@4 외부 기호를 확인할 수 없습니다.
+shadow_utilDoc.obj : error LNK2001: __imp__InterlockedIncrement@4 외부 기호를 확인할 수 없습니다.
+shadow_utilDoc.obj : error LNK2001: __imp__InterlockedDecrement@4 외부 기호를 확인할 수 없습니다.
+shadow_utilView.obj : error LNK2001: __imp__ClientToScreen@8 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: _GUID_NULL 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: _CreateVssBackupComponentsInternal@4 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__GetVersionExA@4 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__OpenProcessToken@12 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__GetCurrentProcess@0 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_report.obj) : error LNK2001: __imp__GetCurrentProcess@0 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__GetTokenInformation@20 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__CloseHandle@4 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__CoInitialize@4 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__StringFromGUID2@12 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__FileTimeToSystemTime@8 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__SystemTimeToTzSpecificLocalTime@12 외부 기호를 확인할 수 없습니다.
+volume_shadow_util.obj : error LNK2001: __imp__SendMessageA@16 외부 기호를 확인할 수 없습니다.
+mfcs100.lib(nolib.obj) : error LNK2001: __imp__SysFreeString@4 외부 기호를 확인할 수 없습니다.
+mfcs100.lib(stdafx.obj) : error LNK2001: __imp__SysFreeString@4 외부 기호를 확인할 수 없습니다.
+mfcs100.lib(appmodul.obj) : error LNK2001: __imp__SysFreeString@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(atonexit.obj) : error LNK2001: __imp__EncodePointer@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(crtexew.obj) : error LNK2001: __imp__EncodePointer@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(atonexit.obj) : error LNK2001: __imp__DecodePointer@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(crtexew.obj) : error LNK2001: __imp__InterlockedExchange@8 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(crtexew.obj) : error LNK2001: __imp__Sleep@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(crtexew.obj) : error LNK2001: __imp__InterlockedCompareExchange@12 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(crtexew.obj) : error LNK2001: __imp__HeapSetInformation@16 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(crtexew.obj) : error LNK2001: __imp__GetStartupInfoW@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_report.obj) : error LNK2001: __imp__TerminateProcess@8 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_report.obj) : error LNK2001: __imp__UnhandledExceptionFilter@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_report.obj) : error LNK2001: __imp__SetUnhandledExceptionFilter@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(unhandld.obj) : error LNK2001: __imp__SetUnhandledExceptionFilter@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_report.obj) : error LNK2001: __imp__IsDebuggerPresent@0 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_support.obj) : error LNK2001: __imp__QueryPerformanceCounter@4 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_support.obj) : error LNK2001: __imp__GetTickCount@0 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_support.obj) : error LNK2001: __imp__GetCurrentThreadId@0 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_support.obj) : error LNK2001: __imp__GetCurrentProcessId@0 외부 기호를 확인할 수 없습니다.
+msvcrt.lib(gs_support.obj) : error LNK2001: __imp__GetSystemTimeAsFileTime@4 외부 기호를 확인할 수 없습니다.
+d:\내 문서\visual studio 2012\Projects\shadow_util\Release\shadow_util.exe : fatal error LNK1120: 35개의 확인할 수 없는 외부 참조입니다.
